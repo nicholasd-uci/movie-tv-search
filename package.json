@@ -1,0 +1,23 @@
+{
+  "name": "movie-tv-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholasd-uci/movie-tv-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholasd-uci/movie-tv-search/issues"
+  },
+  "homepage": "https://github.com/nicholasd-uci/movie-tv-search#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
